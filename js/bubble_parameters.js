@@ -3,7 +3,7 @@ var BUBBLE_PARAMETERS = {
     "map_file": "us.json",
     "report_title": "Biggest Data Breaches",
     "footer_text": "Source: databreaches.net",
-    "width": 1800,
+    "width": 1500,
     "height": 800,
     "force_strength": 0.006,
     "force_type": "charge",
